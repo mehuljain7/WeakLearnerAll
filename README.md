@@ -70,3 +70,15 @@ Chapter 6 Formal Relational Query Languages
 - 6.3 The Domain Relational Calculus
 - 6.4 Summary
 - Exercises
+
+## [Statistics Made Easy](https://github.com/mehuljain7/WeakLearnerAll/blob/main/Statistics%20Made%20Easy.pdf)
+
+9. Inferential Statistics
+- 9.5 Hypothesis Testing
+  - 9.5.5 Types of errors
+
+## [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+
+[Unit 12: Significance tests (hypothesis testing)](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
+- Lesson 2: Error probabilities and power
+  - [Introduction to Type I and Type II errors](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
