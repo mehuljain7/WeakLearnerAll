@@ -1,8 +1,7 @@
 # WeakLearner
 
 ## [Database System Concepts](https://github.com/mehuljain7/All/blob/main/Silberschatz-Database%20System%20Concepts%206th%20ed.pdf)
-
-Chapter 1 Introduction
+#### Chapter 1 Introduction
 - 1.1 Database-System Applications
 - 1.2 Purpose of Database Systems
 - 1.3 View of Data
@@ -18,10 +17,8 @@ Chapter 1 Introduction
 - 1.13 History of Database Systems
 - 1.14 Summary
 - Exercises
-
 ### PART ONE RELATIONAL DATABASES
-
-Chapter 2 Introduction to the Relational Model
+#### Chapter 2 Introduction to the Relational Model
 - 2.1 Structure of Relational Databases
 - 2.2 Database Schema
 - 2.3 Keys
@@ -30,8 +27,7 @@ Chapter 2 Introduction to the Relational Model
 - 2.6 Relational Operations
 - 2.7 Summary
 - Exercises
-
-Chapter 3 Introduction to SQL
+#### Chapter 3 Introduction to SQL
 - 3.1 Overview of the SQL Query Language
 - 3.2 SQL Data Definition
 - 3.3 Basic Structure of SQL Queries 
@@ -43,8 +39,7 @@ Chapter 3 Introduction to SQL
 - 3.9 Modification of the Database
 - 3.10 Summary
 - Exercises
-
-Chapter 4 Intermediate SQL
+#### Chapter 4 Intermediate SQL
 - 4.1 Join Expressions
 - 4.2 Views
 - 4.3 Transactions
@@ -53,8 +48,7 @@ Chapter 4 Intermediate SQL
 - 4.6 Authorization
 - 4.7 Summary
 - Exercises
-
-Chapter 5 Advanced SQL
+#### Chapter 5 Advanced SQL
 - 5.1 Accessing SQL From a Programming Language
 - 5.2 Functions and Procedures
 - 5.3 Triggers
@@ -63,8 +57,7 @@ Chapter 5 Advanced SQL
 - 5.6 OLAP**
 - 5.7 Summary
 - Exercises
-
-Chapter 6 Formal Relational Query Languages
+#### Chapter 6 Formal Relational Query Languages
 - 6.1 The Relational Algebra
 - 6.2 The Tuple Relational Calculus
 - 6.3 The Domain Relational Calculus
@@ -72,13 +65,15 @@ Chapter 6 Formal Relational Query Languages
 - Exercises
 
 ## [Statistics Made Easy](https://github.com/mehuljain7/WeakLearnerAll/blob/main/Statistics%20Made%20Easy.pdf)
-
-9. Inferential Statistics
-- 9.5 Hypothesis Testing
-  - 9.5.5 Types of errors
+### 9. Inferential Statistics
+#### 9.5 Hypothesis Testing
+- 9.5.5 Types of errors
 
 ## [Statistics and probability](https://www.khanacademy.org/math/statistics-probability)
+### [Unit 12: Significance tests (hypothesis testing)](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
+#### Lesson 2: Error probabilities and power
+- [Introduction to Type I and Type II errors](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
 
-[Unit 12: Significance tests (hypothesis testing)](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample)
-- Lesson 2: Error probabilities and power
-  - [Introduction to Type I and Type II errors](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/error-probabilities-and-power/v/introduction-to-type-i-and-type-ii-errors)
+## [jbstatistics](https://www.youtube.com/@jbstatistics)
+### [Hypothesis Testing](https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67)
+- [An Introduction to Hypothesis Testing](https://www.youtube.com/watch?v=tTeMYuS87oU&list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67&index=1)
